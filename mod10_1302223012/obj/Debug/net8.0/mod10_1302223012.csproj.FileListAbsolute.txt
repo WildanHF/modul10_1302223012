@@ -1,0 +1,8 @@
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.csproj.AssemblyReference.cache
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.AssemblyInfoInputs.cache
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.AssemblyInfo.cs
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.csproj.CoreCompileInputs.cache
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.MvcApplicationPartsAssemblyInfo.cs
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.MvcApplicationPartsAssemblyInfo.cache
+D:\MOD10\mod10_1302223012\mod10_1302223012\obj\Debug\net8.0\mod10_1302223012.sourcelink.json

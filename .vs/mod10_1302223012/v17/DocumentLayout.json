@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MOD10\\mod10_1302223012\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|solutionrelative:mod10_1302223012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|d:\\mod10\\mod10_1302223012\\mod10_1302223012\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|solutionrelative:mod10_1302223012\\mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|solutionrelative:mod10_1302223012\\mod10_1302223012.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|d:\\mod10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5452E994-25F5-4EE8-984D-1920E17148D8}|mod10_1302223012\\mod10_1302223012.csproj|solutionrelative:mod10_1302223012\\mod10_1302223012.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mod10_1302223012",
+              "DocumentMoniker": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+              "RelativeDocumentMoniker": "mod10_1302223012\\mod10_1302223012.csproj",
+              "ToolTip": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+              "RelativeToolTip": "mod10_1302223012\\mod10_1302223012.csproj",
+              "ViewState": "AQIAAAMAAADQxTs4c/EpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T01:44:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mod10_1302223012",
+              "DocumentMoniker": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+              "RelativeDocumentMoniker": "mod10_1302223012\\mod10_1302223012.csproj",
+              "ToolTip": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+              "RelativeToolTip": "mod10_1302223012\\mod10_1302223012.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T01:02:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "mod10_1302223012\\Mahasiswa.cs",
+              "ToolTip": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\Mahasiswa.cs",
+              "RelativeToolTip": "mod10_1302223012\\Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:56:08.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\Program.cs",
+              "RelativeDocumentMoniker": "mod10_1302223012\\Program.cs",
+              "ToolTip": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\Program.cs",
+              "RelativeToolTip": "mod10_1302223012\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T00:55:30.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

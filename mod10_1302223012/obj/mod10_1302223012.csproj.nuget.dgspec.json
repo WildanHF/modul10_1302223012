@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj": {}
+    "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj": {}
   },
   "projects": {
-    "D:\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj": {
+    "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+        "projectUniqueName": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
         "projectName": "mod10_1302223012",
-        "projectPath": "D:\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
+        "projectPath": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\mod10_1302223012.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\mod10_1302223012\\mod10_1302223012\\obj\\",
+        "outputPath": "D:\\MOD10\\mod10_1302223012\\mod10_1302223012\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
